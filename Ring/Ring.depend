@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1644493591 source:c:\users\rathi\desktop\projects\sem3\ring\main.cpp
+	<iostream>
+	<sstream>
+	"ring.h"
+
+1644493574 c:\users\rathi\desktop\projects\sem3\ring\ring.h
+	<iostream>
+	<sstream>
+
